@@ -1,0 +1,1 @@
+package com.zhu.donate.vo;
